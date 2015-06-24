@@ -1,6 +1,6 @@
 {
   "name": "atom-chai-snippets",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index.coffee",
   "description": "Full completions for the Chai Assertion Library",
   "repository": "https://github.com/povalpet/atom-chai-snippets",
@@ -10,8 +10,6 @@
   "engines": {
     "atom": ">=0.185.0 <2.0.0"
   },
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "license": "MIT"
 }
