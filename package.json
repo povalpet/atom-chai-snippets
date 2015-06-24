@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "main": "index.coffee",
   "description": "Full completions for the Chai Assertion Library",
+  "repository": "https://github.com/povalpet/atom-chai-snippets",
   "contributors": [
     "Petr Povala <povalpet@gmail.com>"
   ],
