@@ -113,15 +113,9 @@
   'expect.to.have.length':
     'prefix':'expect.to.have.length'
     'body': 'expect(${1:value}).to.have.length(${2:value});$0'
-  'expect.to.have.length.above':
-    'prefix':'expect.to.have.length.above'
-    'body': 'expect(${1:value}).to.have.length.above(${2:value});$0'
   'expect.to.have.length.below':
     'prefix':'expect.to.have.length.below'
     'body': 'expect(${1:value}).to.have.length.below(${2:value});$0'
-  'expect.to.have.length.within':
-    'prefix':'expect.to.have.length.within'
-    'body': 'expect(${1:value}).to.have.length.within(${2:start}, ${3:finish});$0'
   'expect.to.match':
     'prefix':'expect.to.match'
     'body': 'expect(${1:value}).to.match(/${2:regex}/);$0'
@@ -146,4 +140,3 @@
   'expect.to.be.closeTo':
     'prefix':'expect.to.be.closeTo'
     'body': 'expect(${1:value}).to.be.closeTo(${2:expected}, ${3:delta});$0'
-
