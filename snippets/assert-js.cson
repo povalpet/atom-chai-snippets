@@ -41,6 +41,9 @@
     'assert.isDefined':
         'prefix': "assert.isDefined"
         'body': 'assert.isDefined(${1:value}${2:, \"${3:[message]}\"});$0'
+    'assert.isAbove':
+        'prefix': "assert.isAbove"
+        'body': 'assert.isAbove(${1:value}${2:, \"${3:[message]}\"});$0'
     'assert.isFunction':
         'prefix': "assert.isFunction"
         'body': 'assert.isFunction(${1:value}${2:, \"${3:[message]}\"});$0'
